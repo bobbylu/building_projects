@@ -41,11 +41,11 @@ last_sale_price
 @bobbylu has a list of development projects with the following columns:
 
 jursidiction - list of city's-go to each city website, find projects
-url(source)
-x,y - from latlong.net
-location - address from city
-units,
-commercial/office,status,
+url(source)  
+x,y - from latlong.net  
+location - address from city  
+units,  
+commercial/office,status,  
 
 the goal is to merge bobby's data into our csv in bayarea_urbansim. 
 
