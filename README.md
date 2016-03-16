@@ -40,7 +40,7 @@ last_sale_price
 
 @bobbylu has a list of development projects with the following columns:
 
-jursidiction - list of city's-go to each city website, find projects
+jursidiction - list of city's-go to each city website, find projects  
 url(source)  
 x,y - from latlong.net  
 location - address from city  
