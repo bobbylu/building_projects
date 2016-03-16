@@ -1,0 +1,7 @@
+development_projects_id,raw_id,name,site_name,action,scen0,scen3,scen1,scen2,address,city,zip,county,x,y,geom_id,duration,building_type_id,building_type,building_sqft,non_residential_sqft,residential_units,unit_ave_sqft,tenure,rent_type,stories
+2,8852564,SFMOMA Expansion,,build,1,1,1,1,670 Howard St,San Francisco,94105,San Francisco,-122.40005,37.78574,1.35983E+13,,,GV,253000,253000,0,,rent,,10
+3,9122058,The Gilroy Library,,build,1,1,1,1,350 W 6th St,Gilroy,950206106,Santa Clara,,,2.09361E+12,,,GV,54000,54000,0,,rent,,2
+4,9645882,Willow Housing Veterans Apartments,,build,1,1,1,1,605 Willow Rd,Menlo Park,940252618,San Mateo,-122.16019,37.4663,9.66828E+12,,,GV,43000,43000,0,,rent,,2
+5,8976159,,,build,1,1,1,1,1701 Martin Luther King Jr Blvd,Oakland,946121330,Alameda,-122.27487,37.80845,1.54814E+13,,,GV,24600,24600,0,,rent,,4
+6,9018223,Lands End Lookout,,build,1,1,1,1,680 Point Lobos Ave,San Francisco,94121,San Francisco,-122.50554,37.78495,9.94185E+12,,,GV,4150,4150,0,,rent,,1
+7,8272995,Rising Oaks,,build,1,1,1,1,3800 Coolidge Ave,Oakland,946023399,Alameda,,,1.12649E+13,,,GV,20730,20730,0,,rent,,2
